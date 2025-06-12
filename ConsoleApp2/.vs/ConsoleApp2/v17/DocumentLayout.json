@@ -1,12 +1,121 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:services\\adminservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\data\\scorelog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:data\\scorelog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\scorefrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:scorefrom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\scorefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:scorefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\scorefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:scorefrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\non-system\\projects\\konstruksi\\quizzapp\\consoleapp2\\services\\quizservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:services\\quizservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminServices.cs",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Services\\AdminServices.cs",
+              "RelativeDocumentMoniker": "Services\\AdminServices.cs",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Services\\AdminServices.cs",
+              "RelativeToolTip": "Services\\AdminServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:02:57.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoreLog.json",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Data\\ScoreLog.json",
+              "RelativeDocumentMoniker": "Data\\ScoreLog.json",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Data\\ScoreLog.json",
+              "RelativeToolTip": "Data\\ScoreLog.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T15:02:56.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreFrom.Designer.cs",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.Designer.cs",
+              "RelativeDocumentMoniker": "ScoreFrom.Designer.cs",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.Designer.cs",
+              "RelativeToolTip": "ScoreFrom.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:01:44.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreFrom.cs",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.cs",
+              "RelativeDocumentMoniker": "ScoreFrom.cs",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.cs",
+              "RelativeToolTip": "ScoreFrom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:01:24.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreFrom.cs [Design]",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.cs",
+              "RelativeDocumentMoniker": "ScoreFrom.cs",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\ScoreFrom.cs [Design]",
+              "RelativeToolTip": "ScoreFrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:01:15.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuizServices.cs",
+              "DocumentMoniker": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Services\\QuizServices.cs",
+              "RelativeDocumentMoniker": "Services\\QuizServices.cs",
+              "ToolTip": "C:\\Non-System\\Projects\\Konstruksi\\QuizzApp\\ConsoleApp2\\Services\\QuizServices.cs",
+              "RelativeToolTip": "Services\\QuizServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:00:08.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
