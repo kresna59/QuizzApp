@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\tugbeskon\\ConsoleApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\tugbeskon\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\users\\akay\\source\\repos\\quizzapp\\consoleapp2\\addquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:addquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\tugbeskon\\consoleapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\tugbeskon\\consoleapp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\tugbeskon\\consoleapp2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\tugbeskon\\consoleapp2\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:utils\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\tugbeskon\\consoleapp2\\data\\scorelog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\users\\akay\\source\\repos\\quizzapp\\consoleapp2\\addquestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:addquestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\users\\akay\\source\\repos\\quizzapp\\consoleapp2\\addquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:addquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|c:\\users\\akay\\source\\repos\\quizzapp\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\data\\scorelog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:data\\scorelog.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\tugbeskon\\ConsoleApp2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490CCE87-A9B0-4C36-807A-AA13CBD1CBE2}|ConsoleApp2.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,28 +50,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\MainForm.Designer.cs",
-              "RelativeToolTip": "MainForm.Designer.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwGsAAAAAAAAAAAAAAA==",
+              "Title": "AddQuestion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.Designer.cs",
+              "RelativeDocumentMoniker": "AddQuestion.Designer.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.Designer.cs",
+              "RelativeToolTip": "AddQuestion.Designer.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAkwOIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T13:56:09.854Z",
+              "WhenOpened": "2025-06-12T14:28:46.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "AddQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.cs",
+              "RelativeDocumentMoniker": "AddQuestion.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.cs",
+              "RelativeToolTip": "AddQuestion.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:27:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddQuestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.cs",
+              "RelativeDocumentMoniker": "AddQuestion.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\AddQuestion.cs [Design]",
+              "RelativeToolTip": "AddQuestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:27:05.595Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\MainForm.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwCEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T13:54:23.413Z",
@@ -80,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Config.cs",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\Utils\\Config.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Utils\\Config.cs",
               "RelativeDocumentMoniker": "Utils\\Config.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\Utils\\Config.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Utils\\Config.cs",
               "RelativeToolTip": "Utils\\Config.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,36 +130,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScoreLog.json",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\Data\\ScoreLog.json",
-              "RelativeDocumentMoniker": "Data\\ScoreLog.json",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\Data\\ScoreLog.json",
-              "RelativeToolTip": "Data\\ScoreLog.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-12T13:43:09.841Z",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:56:09.854Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScoreLog.json",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Data\\ScoreLog.json",
+              "RelativeDocumentMoniker": "Data\\ScoreLog.json",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Data\\ScoreLog.json",
+              "RelativeToolTip": "Data\\ScoreLog.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T13:43:09.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "Properties\\AssemblyInfo.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwBoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +167,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\tugbeskon\\ConsoleApp2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\tugbeskon\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\akay\\source\\repos\\QuizzApp\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
